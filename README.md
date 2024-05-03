@@ -24,7 +24,7 @@ I enjoy creating small-scale utilities (using languages like Python and C).
 When I'm not coding, I'm often found exploring the wonders of astronomy.  
 Python is my go-to language for crafting useful scripts and I'm currently working  
 on a challenging website project. To balance it all out, I enjoy hitting the trails for  
-some nature exploration, riding my bike, and unwinding with a good game.  
+some nature exploration, riding my bike, and unwinding with a good game.   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages and Tools
 
@@ -49,7 +49,7 @@ some nature exploration, riding my bike, and unwinding with a good game.
 
 <!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats)                 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats)
 
 
 
