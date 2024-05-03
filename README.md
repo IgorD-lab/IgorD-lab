@@ -10,7 +10,7 @@
 <!-- - 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/#) -->
 <!-- Social icons section -->
 
-## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages and Tools
+## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages and Technologies
 
 <!-- ### Languages -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
