@@ -3,7 +3,7 @@
 **`Back-end Dev by Day, Stargazer by Night`**
 
 ## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> Who am I?
-- 🖥 Professional button pusher
+- 🖥  Professional button pusher
 - 🎓 Pursuing 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 degree 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 Educons, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝚂𝚎𝚙𝚝𝚎𝚖𝚋𝚎𝚛 𝟸0𝟸6
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 <!-- 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎  [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=#) -->
 - 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 𝚋𝚝𝚠 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
