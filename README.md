@@ -9,14 +9,9 @@
 - 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 𝚋𝚝𝚠 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 <!-- - 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/#) -->
 <!-- Social icons section -->
-<p align="center">
-  <a href="https://github.com/IgorD-lab?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IgorD-lab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/IgorD-lab?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IgorD-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/IgorD-lab/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
+#### 📫 How to reach me:
+  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## :milky_way: About Me
 I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
