@@ -18,7 +18,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-## :milky_way: Daily Life
+## :milky_way: About Me
 I'm a student Arch Linux user with a passion for back-end web development. 
 When I'm not coding, I'm often found exploring the wonders of astronomy.
 Python is my go-to language for crafting useful scripts and I'm currently working
