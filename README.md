@@ -1,4 +1,4 @@
-# 🦉 Igor D
+# Igor D
 
 **`Back-end Dev by Day, Stargazer by Night`**
 
