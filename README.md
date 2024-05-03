@@ -34,9 +34,12 @@
 <br>
 
 <!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
+&nbsp;
+&nbsp;
 ## 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
+&nbsp;
 ## :milky_way: About Me
 I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
 I enjoy creating small-scale utilities (using languages like Python and C).  
