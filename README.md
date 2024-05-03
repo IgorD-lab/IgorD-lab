@@ -19,7 +19,7 @@
 </p>
 
 ## :milky_way: About Me
-I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.
 I enjoy creating small-scale utilities (using languages like Python and C).  
 When I'm not coding, I'm often found exploring the wonders of astronomy.  
 Python is my go-to language for crafting useful scripts and I'm currently working  
@@ -49,7 +49,7 @@ some nature exploration, riding my bike, and unwinding with a good game.
 
 <!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats) <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
 
 
