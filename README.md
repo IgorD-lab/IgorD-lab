@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Igor D
+# Igor D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 **`Back-end Dev by Day, Stargazer by Night`**
 
