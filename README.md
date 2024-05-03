@@ -19,7 +19,7 @@
 </p>
 
 ## :milky_way: About Me
-I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.
+I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
 I enjoy creating small-scale utilities (using languages like Python and C).  
 When I'm not coding, I'm often found exploring the wonders of astronomy.  
 Python is my go-to language for crafting useful scripts and I'm currently working  
