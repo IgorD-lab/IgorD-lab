@@ -1,4 +1,4 @@
-# Igor D
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Igor D
 
 **`Back-end Dev by Day, Stargazer by Night`**
 
