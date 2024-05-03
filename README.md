@@ -8,8 +8,15 @@ Python is my go-to language for crafting useful scripts and I'm currently workin
 on a challenging website project.  To balance it all out, I enjoy hitting the trails for 
 some nature exploration, riding my bike, and unwinding with a good game.
 
-![Static Badge](https://custom-icon-badges.demolab.com/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-dobric-96a870129%2F?)
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://github.com/IgorD-lab?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/IgorD-lab?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/IgorD-lab?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/IgorD-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/IgorD-lab/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/IgorD-lab-profile-views"/></a>
+</p>
 ---
 
 ### 🧰 Languages and Tools
