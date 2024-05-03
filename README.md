@@ -26,7 +26,7 @@ Python is my go-to language for crafting useful scripts and I'm currently workin
 on a challenging website project. To balance it all out, I enjoy hitting the trails for  
 some nature exploration, riding my bike, and unwinding with a good game.  
 
-## 🧰 Languages and Tools
+## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
