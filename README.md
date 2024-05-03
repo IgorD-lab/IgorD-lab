@@ -8,7 +8,7 @@ Python is my go-to language for crafting useful scripts and I'm currently workin
 on a challenging website project.  To balance it all out, I enjoy hitting the trails for 
 some nature exploration, riding my bike, and unwinding with a good game.
 
-![Static Badge](https://custom-icon-badges.demolab.com/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-dobric-96a870129%2F?style=social&logo=linkedin&logoColor=blue&label=LinkedIn&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-dobric-96a870129%2F)
+![Static Badge](https://custom-icon-badges.demolab.com/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Figor-dobric-96a870129%2F?)
 
 ---
 
