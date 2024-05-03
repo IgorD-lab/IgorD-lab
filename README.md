@@ -37,7 +37,8 @@
 &nbsp;
 &nbsp;
 ## 📊 Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IgorD-labs&theme=tokyonight" alt="GitHub Streak" /></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IgorD-labs&theme=tokyonight" alt="GitHub Streak" /></a> 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
 &nbsp;
 ## :milky_way: About Me
