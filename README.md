@@ -49,7 +49,7 @@ some nature exploration, riding my bike, and unwinding with a good game.
 
 <!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats) <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats)                 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
 
 
