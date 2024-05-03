@@ -31,16 +31,17 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br>
-
+<br>  
+  
 <!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
 &nbsp;
 &nbsp;
+&nbsp;
+
 ## 📊 Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IgorD-lab&theme=tokyonight" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=IgorD-lab&theme=dark)](https://git.io/streak-stats)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
-&nbsp;
 ## :milky_way: About Me
 I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
 I enjoy creating small-scale utilities (using languages like Python and C).  
