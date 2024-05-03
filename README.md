@@ -9,17 +9,6 @@
 - 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 𝚋𝚝𝚠 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 <!-- - 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/#) -->
 <!-- Social icons section -->
-#### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
-## :milky_way: About Me
-I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
-I enjoy creating small-scale utilities (using languages like Python and C).  
-When I'm not coding, I'm often found exploring the wonders of astronomy.  
-Python is my go-to language for crafting useful scripts and I'm currently working  
-on a challenging website project. To balance it all out, I enjoy hitting the trails for  
-some nature exploration, riding my bike, and unwinding with a good game.
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages and Tools
 
@@ -44,7 +33,20 @@ some nature exploration, riding my bike, and unwinding with a good game.
 
 <!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats)        <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Igor%20D&theme=dark)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+
+## :milky_way: About Me
+I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
+I enjoy creating small-scale utilities (using languages like Python and C).  
+When I'm not coding, I'm often found exploring the wonders of astronomy.  
+Python is my go-to language for crafting useful scripts and I'm currently working  
+on a challenging website project. To balance it all out, I enjoy hitting the trails for  
+some nature exploration, riding my bike, and unwinding with a good game.
+
+#### 📫 How to reach me:
+  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 
 
 
