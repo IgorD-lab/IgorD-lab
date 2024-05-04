@@ -43,8 +43,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
 
 ## :milky_way: About Me
-I'm a 21-year-old student and Arch Linux user with a passion for back-end web development.  
-I enjoy creating small-scale utilities (using languages like Python and C).  
+I'm a 21-year-old student and Arch Linux user with a passion for back-end web development
+and system administration. I enjoy creating small-scale utilities (using languages like Python and C).  
 When I'm not coding, I'm often found exploring the wonders of astronomy.  
 Python is my go-to language for crafting useful scripts and I'm currently working  
 on a challenging website project. To balance it all out, I enjoy hitting the trails for  
