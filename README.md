@@ -40,7 +40,7 @@
 
 ## 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=IgorD-lab&theme=dark)](https://git.io/streak-stats)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/IgorD-lab/IgorD-lab/blob/c3189e00fa769419c89a1d454dc6f449db32664d/assets/games.gif" width="195">  
 
 ## :milky_way: About Me
 I'm a 21-year-old student and Arch Linux user with a passion for back-end web development  
