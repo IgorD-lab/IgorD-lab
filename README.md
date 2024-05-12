@@ -50,7 +50,7 @@ Python is my go-to language for crafting useful scripts and I'm currently workin
 on a challenging website project. To balance it all out, I enjoy hitting the trails for  
 some nature exploration, riding my bike, and unwinding with a good game.
 
-![](https://komarev.com/ghpvc/?username=IgorD-lab)
+![](https://komarev.com/ghpvc/?username=IgorD-lab&style=flat-square)
 
 #### 📫 How to reach me:
   
