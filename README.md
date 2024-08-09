@@ -1,6 +1,6 @@
 # Igor D. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-**`Back-end Dev by Day, Stargazer by Night`**
+<!-- **`Back-end Dev by Day, Stargazer by Night`** -->
 
 ## <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> Who am I?
 - 🖥  Professional button pusher
