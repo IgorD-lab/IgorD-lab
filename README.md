@@ -37,7 +37,7 @@
 &nbsp;
 
 ## 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IgorD-lab)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IgorD-lab&theme=dark)](https://git.io/streak-stats)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/IgorD-lab/IgorD-lab/blob/c3189e00fa769419c89a1d454dc6f449db32664d/assets/games.gif" width="195">  
 
 ## :milky_way: About Me
