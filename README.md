@@ -39,8 +39,7 @@
 ## 📊 Stats
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=dark" alt="GitHub Streak" />
-</a>  
-
+</a>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/IgorD-lab/IgorD-lab/blob/c3189e00fa769419c89a1d454dc6f449db32664d/assets/games.gif" width="195">  
 
 ## :milky_way: About Me
