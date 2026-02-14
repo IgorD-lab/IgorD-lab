@@ -1,16 +1,18 @@
+# Igor D. 🛠️
+
 <picture>
   <h1>Igor D. 
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="32" height="32">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="32" height="32">
   </h1>
 </picture>
 
 > **"Spending 6 hours automating a 6-minute task. It’s about the principle."**
 
 ## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
-- 🌐 Open-source projects are live on my **GitHub**.
-- 🚀 I use **Arch btw**. That's my entire personality. [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="18em" align="center" alt="Arch Linux Logo"/>](https://archlinux.org/)
-- ⚙️ 22-year-old student specializing in **Back-end Systems** & **SysAdmin**.
+- 🌐 You can access all my open-source projects here on **GitHub**.
+- 🚀 I use **Arch btw**. That's my entire personality. [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="20em" align="center" alt="Arch Linux Logo"/>](https://archlinux.org/)
+- ⚙️ 22-year-old student passionate about **Back-end development** and **System Administration**.
 
 ---
 
@@ -18,36 +20,36 @@
 
 ### 🐍 Python & Backend
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/8b5cf6" width="30" title="Python" />&nbsp;
-  <img src="https://cdn.simpleicons.org/django/8b5cf6" width="30" title="Django" />&nbsp;
-  <img src="https://cdn.simpleicons.org/flask/8b5cf6" width="30" title="Flask" />&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/8b5cf6" width="30" title="PostgreSQL" />&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite/8b5cf6" width="30" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" title="SQLite" />
 </p>
 
 ### 🌐 JavaScript & Frontend
 <p align="left">
-  <img src="https://cdn.simpleicons.org/javascript/8b5cf6" width="30" title="JavaScript" />&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/8b5cf6" width="30" title="TypeScript" />&nbsp;
-  <img src="https://cdn.simpleicons.org/react/8b5cf6" width="30" title="React" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" width="30" title="Tailwind CSS" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/8b5cf6" width="30" title="Node.js" />&nbsp;
-  <img src="https://cdn.simpleicons.org/vite/8b5cf6" width="30" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="30" title="Vite" />
 </p>
 
-### 🦀 Low Level (The "Learning Zone")
+### 🦀 Low Level (The "I'm Learning" Zone)
 <p align="left">
-  <img src="https://cdn.simpleicons.org/c/8b5cf6" width="30" title="C" />&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/8b5cf6" width="30" title="C++" />&nbsp;
-  <img src="https://cdn.simpleicons.org/rust/8b5cf6" width="30" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="30" title="Rust" />
 </p>
 
 ### 🛠️ Systems & Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/linux/8b5cf6" width="30" title="Linux" />&nbsp;
-  <img src="https://cdn.simpleicons.org/windows/8b5cf6" width="30" title="Windows" />&nbsp;
-  <img src="https://cdn.simpleicons.org/git/8b5cf6" width="30" title="Git" />&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/8b5cf6" width="30" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="30" title="Windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" title="Bash" />
 </p>
 
 ---
