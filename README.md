@@ -1,8 +1,9 @@
 <picture>
-  <h1>Igor D. </h1>
+  <h1>Igor D. 
 
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="32" height="32">
+  </h1>
 </picture>
 
 > **Spending 6 hours automating a 6-minute task. It’s about the principle.**
