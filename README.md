@@ -1,62 +1,58 @@
-# Igor D.  
+# Igor D. 👨‍💻
 
-<!-- **`Back-end Dev by Day, Stargazer by Night`** -->
+> **Back-end Dev by Day, Stargazer by Night**
 
-## About me?  <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 <!-- 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎  [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=#) -->
-- 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 𝚋𝚝𝚠 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
-<!-- - 💼 𝚁𝚞𝚗𝚗𝚒𝚗𝚐 [𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/#) -->
-<!-- Social icons section -->
+## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
+- 🌐 You can access all my open-source projects here on **GitHub**.
+- 🚀 I use **Arch Linux**, btw. [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="20em" align="center" alt="Arch Linux Logo"/>](https://archlinux.org/)
+- 🛠️ 22-year-old student passionate about **Back-end development** and **System Administration**.
 
-## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> Languages and Technologies
+---
 
-<!-- ### Languages -->
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<!-- img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/ -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+## 🛠 Languages and Technologies
 
-<!-- ### Technologies -->
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br>  
-  
-<!-- [![Igor D's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorD-lab)](https://github.com/anuraghazra/github-readme-stats) -->
-&nbsp;
-&nbsp;
-&nbsp;
-
-## 📊 My work summary
-<p>
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=dark" alt="GitHub Streak" />
-</a> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png" width="195">  
+### 💻 Programming & Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" title="CSS3" />
 </p>
 
-## :milky_way: About Me
-I'm a 22-year-old student with a passion for back-end web development  
-and system administration. I enjoy creating small-scale utilities (using languages like Python and C).   
-Python is my go-to language for crafting useful scripts and I'm currently working  
-on improving my skills.
+### ⚙️ Frameworks, DBs & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=IgorD-lab&style=flat-square&abbreviated=true&base=1000)
+---
 
-#### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/tradeban76561198448174051/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/users/.iii_iii) <!-- &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/username) --> &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/igor-dobric/) <!-- &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/) --> &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/igord_03/)  &nbsp; <a href="mailto:igordobricc@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+## 📊 My Work Summary
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgorD-lab&label=Profile%20Views&color=0078d7&style=flat-square" alt="Profile Views" />
+</p>
 
+---
 
-<!--[website]: https://.com -->
+## 📫 How to reach me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/igor-dobric/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35"/></a>
+  <a href="mailto:igordobricc@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35"/></a>
+  <a href="https://discord.com/users/.iii_iii"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="35"/></a>
+  <a href="https://steamcommunity.com/id/tradeban76561198448174051/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="35"/></a>
+  <a href="https://www.instagram.com/igord_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35"/></a>
+</p>
