@@ -1,4 +1,4 @@
-# Igor D. 👨‍💻
+# Igor D. <img alt="GIF" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/lottie.json" width="20" />
 
 > **Spending 6 hours automating a 6-minute task. It’s about the principle.**
 
