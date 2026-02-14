@@ -41,7 +41,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=dark" alt="GitHub Streak" />
 </a> 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png" width="195">  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png" width="195">  <p>Typical Day</p>
 </p>
 
 ## :milky_way: About Me
