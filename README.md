@@ -36,7 +36,7 @@
 &nbsp;
 &nbsp;
 
-## 📊 Stats
+## 📊 My work summary
 <p>
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=dark" alt="GitHub Streak" />
