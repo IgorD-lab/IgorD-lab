@@ -1,4 +1,7 @@
-# Igor D. <img alt="GIF" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/lottie.json" width="20" />
+# Igor D. <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="32" height="32">
+</picture>
 
 > **Spending 6 hours automating a 6-minute task. It’s about the principle.**
 
