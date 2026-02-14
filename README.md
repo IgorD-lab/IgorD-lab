@@ -1,5 +1,3 @@
-# Igor D. 🛠️
-
 <picture>
   <h1>Igor D. 
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.webp" type="image/webp">
