@@ -32,9 +32,11 @@
 
 ### 🦀 Low Level (The "I'm Learning" Zone)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
 </p>
 
 ### 🛠️ Systems & Tools
@@ -48,16 +50,21 @@
 ---
 
 ## 📊 My Work Summary
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=dark" alt="GitHub Streak" />
-  </a> 
-  <br>
-  <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png" width="195"> 
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=radical&hide_border=true" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png" width="180">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorD-lab&label=Profile%20Views&color=blue&style=flat-square&base=1046" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IgorD-lab&label=PROFILE+VIEWS&color=8a2be2&style=flat-square&base=1046" alt="Profile Views" />
 </p>
 
 ---
