@@ -18,22 +18,22 @@
 
 ### 🐍 Python & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite" height=35 />
 </p>
 
 ### 🌐 JavaScript & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,vite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,vite" height=35 />
 </p>
 
 ### 🦀 Low Level (The "I'm Learning" Zone)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust" height=35 />
 </p>
 
 ### 🛠️ Systems & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,bash" height=35 />
 </p>
 ---
 
