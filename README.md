@@ -5,7 +5,7 @@
   </h1>
 </picture>
 
-> **"Spending 6 hours automating a 6-minute task. It’s about the principle."**
+> **"TODO: Write a better bio"**
 
 ## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 - 🌐 You can access all my open-source projects here on **GitHub**.
