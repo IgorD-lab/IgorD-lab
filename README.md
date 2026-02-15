@@ -18,22 +18,22 @@
 
 ### 🐍 Python & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite" height=35 />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite" height=40 />
 </p>
 
 ### 🌐 JavaScript & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,vite" height=35 />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,vite" height=40 />
 </p>
 
 ### 🦀 Low Level (The "I'm Learning" Zone)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust" height=35 />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust" height=40 />
 </p>
 
 ### 🛠️ Systems & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,bash" height=35 />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,bash" height=40 />
 </p>
 ---
 
@@ -59,9 +59,9 @@
 
 #### 📫 How to reach me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/igor-dobric/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35"/></a>&nbsp;
-  <a href="mailto:igordobricc@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="35"/></a>&nbsp;
-  <a href="https://discord.com/users/.iii_iii"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="35"/></a>&nbsp;
-  <a href="https://steamcommunity.com/id/tradeban76561198448174051/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="35"/></a>&nbsp;
-  <a href="https://www.instagram.com/igord_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35"/></a>
+  <a href="https://www.linkedin.com/in/igor-dobric/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>&nbsp;
+  <a href="mailto:igordobricc@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/></a>&nbsp;
+  <a href="https://discord.com/users/.iii_iii"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40"/></a>&nbsp;
+  <a href="https://steamcommunity.com/id/tradeban76561198448174051/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40"/></a>&nbsp;
+  <a href="https://www.instagram.com/igord_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"/></a>
 </p>
