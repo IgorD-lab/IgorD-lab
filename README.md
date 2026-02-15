@@ -5,9 +5,9 @@
   </h1>
 </picture>  
 <blockquote>
-<strong>"Writing TODO comments I'll never read again"</strong>
+<strong>"Writing TODO comments knowing I'll never read them again"</strong>
 <br><br>
-<code>// TODO: finish this sentence</code>
+<code>// TODO: write a better bio</code>
 </blockquote>
 
 ## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
