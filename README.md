@@ -5,7 +5,7 @@
   </h1>
 </picture>  
 > **"Writing TODO comments I'll never read again"**
-> 
+>
 > `// TODO: finish this sentence`
 
 ## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
