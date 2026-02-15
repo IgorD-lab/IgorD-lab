@@ -4,8 +4,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="32" height="32">
   </h1>
 </picture>
-
-> **"TODO:  Write a better bio"**
+> **Writing TODO comments knowing I'll never read them again**
+> **TODO:  Write a better bio**
 
 ## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 - 🌐 You can access all my open-source projects here on **GitHub**.
