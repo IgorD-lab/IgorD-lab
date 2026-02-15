@@ -67,7 +67,7 @@
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorD-lab&label=PROFILE+VIEWS&color=8a2be2&style=flat-square&base=1046" alt="Profile Views" /> —> mostly me checking if I broke my README
+  <img src="https://komarev.com/ghpvc/?username=IgorD-lab&label=PROFILE+VIEWS&color=8a2be2&style=flat-square&base=1046" alt="Profile Views" /> —> mostly me checking if I broke my own README
 </p>
 
 ---
