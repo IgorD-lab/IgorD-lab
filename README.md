@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
 ### 🐍 Python & Backend
 <p align="left">
