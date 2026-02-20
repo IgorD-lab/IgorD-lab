@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 My Work Summary
+## 📊 My GitHub Stats
 <table border="0">
   <tr>
     <td>
