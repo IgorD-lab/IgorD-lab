@@ -13,7 +13,7 @@
 ## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 - 🌐 You can access all my open-source projects here on **GitHub**.
 - 🚀 I use **Arch btw**. That's my entire personality. [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="20em" align="center" alt="Arch Linux Logo"/>](https://archlinux.org/)
-- ⚙️ 22-year-old student passionate about **Back-end development** and **System Administration**.
+- ⚙️ 23-year-old student passionate about **Back-end development** and **System Administration**.
 
 ---
 
