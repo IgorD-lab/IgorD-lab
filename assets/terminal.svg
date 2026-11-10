@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="496" viewBox="0 0 840 496" role="img" aria-label="Terminal showing neofetch output for Igor D.: Arch Linux, back-end developer from Novi Sad, Serbia">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;font-size:13px;fill:#c9d1d9;white-space:pre}
+.d{fill:#8b949e}.c{fill:#1793d1}.k{fill:#1793d1;font-weight:700}.p{fill:#3fb950;font-weight:700}.y{fill:#e3b341}.pk{fill:#f778ba}
+.l{opacity:0;animation:in .25s ease-out forwards}
+.logo{opacity:0;animation:in .8s ease-out .5s forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes in{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l,.logo{animation:none;opacity:1}.cur{animation:none}}
+</style>
+<rect x=".5" y=".5" width="839" height="495" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 11a10 10 0 0 1 10-10h818a10 10 0 0 1 10 10v23H1z" fill="#161b22"/>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="420.0" y="22" text-anchor="middle" class="d">igor@arch: ~</text>
+<text x="22" y="58" class="l" style="animation-delay:.1s"><tspan class="p">igor@arch</tspan> <tspan class="c">~</tspan> $ neofetch</text>
+<g class="logo">
+<text x="22" y="90" class="c" xml:space="preserve">                   -`</text>
+<text x="22" y="107" class="c" xml:space="preserve">                  .o+`</text>
+<text x="22" y="124" class="c" xml:space="preserve">                 `ooo/</text>
+<text x="22" y="141" class="c" xml:space="preserve">                `+oooo:</text>
+<text x="22" y="158" class="c" xml:space="preserve">               `+oooooo:</text>
+<text x="22" y="175" class="c" xml:space="preserve">               -+oooooo+:</text>
+<text x="22" y="192" class="c" xml:space="preserve">             `/:-:++oooo+:</text>
+<text x="22" y="209" class="c" xml:space="preserve">            `/++++/+++++++:</text>
+<text x="22" y="226" class="c" xml:space="preserve">           `/++++++++++++++:</text>
+<text x="22" y="243" class="c" xml:space="preserve">          `/+++ooooooooooooo/`</text>
+<text x="22" y="260" class="c" xml:space="preserve">         ./ooosssso++osssssso+`</text>
+<text x="22" y="277" class="c" xml:space="preserve">        .oossssso-````/ossssss+`</text>
+<text x="22" y="294" class="c" xml:space="preserve">       -osssssso.      :ssssssso.</text>
+<text x="22" y="311" class="c" xml:space="preserve">      :osssssss/        osssso+++.</text>
+<text x="22" y="328" class="c" xml:space="preserve">     /ossssssss/        +ssssooo/-</text>
+<text x="22" y="345" class="c" xml:space="preserve">   `/ossssso+/:-        -:/+osssso+-</text>
+<text x="22" y="362" class="c" xml:space="preserve">  `+sso+:-`                 `.-/+oso:</text>
+<text x="22" y="379" class="c" xml:space="preserve"> `++:.                           `-/+/</text>
+<text x="22" y="396" class="c" xml:space="preserve"> .`                                 `/</text>
+</g>
+<text x="360" y="90" class="l" style="animation-delay:0.90s" xml:space="preserve"><tspan class="k">igor</tspan>@<tspan class="k">arch</tspan></text>
+<text x="360" y="107" class="l" style="animation-delay:1.02s" xml:space="preserve"><tspan class="d">---------</tspan></text>
+<text x="360" y="124" class="l" style="animation-delay:1.14s" xml:space="preserve"><tspan class="k">OS</tspan>: Arch Linux (btw)</text>
+<text x="360" y="141" class="l" style="animation-delay:1.26s" xml:space="preserve"><tspan class="k">Host</tspan>: Novi Sad, Serbia</text>
+<text x="360" y="158" class="l" style="animation-delay:1.38s" xml:space="preserve"><tspan class="k">Role</tspan>: Back-end developer</text>
+<text x="360" y="175" class="l" style="animation-delay:1.50s" xml:space="preserve"><tspan class="k">Uptime</tspan>: on GitHub since 2020</text>
+<text x="360" y="192" class="l" style="animation-delay:1.62s" xml:space="preserve"><tspan class="k">Commits</tspan>: 4,000+ contributions</text>
+<text x="360" y="209" class="l" style="animation-delay:1.74s" xml:space="preserve"><tspan class="k">Backend</tspan>: Python · Django · Flask · FastAPI</text>
+<text x="360" y="226" class="l" style="animation-delay:1.86s" xml:space="preserve"><tspan class="k">Data</tspan>: PostgreSQL · SQLite · Docker</text>
+<text x="360" y="243" class="l" style="animation-delay:1.98s" xml:space="preserve"><tspan class="k">Frontend</tspan>: TypeScript · React · Tailwind</text>
+<text x="360" y="260" class="l" style="animation-delay:2.10s" xml:space="preserve"><tspan class="k">Learning</tspan>: Rust · C · C++</text>
+<text x="360" y="277" class="l" style="animation-delay:2.22s" xml:space="preserve"><tspan class="k">Focus</tspan>: AI / LLM tooling</text>
+<text x="360" y="294" class="l" style="animation-delay:2.34s" xml:space="preserve"><tspan class="k">Personality</tspan>: see OS</text>
+<g class="l" style="animation-delay:2.58s">
+<rect x="360" y="316" width="26" height="16" fill="#484f58"/>
+<rect x="386" y="316" width="26" height="16" fill="#ff7b72"/>
+<rect x="412" y="316" width="26" height="16" fill="#3fb950"/>
+<rect x="438" y="316" width="26" height="16" fill="#e3b341"/>
+<rect x="464" y="316" width="26" height="16" fill="#1793d1"/>
+<rect x="490" y="316" width="26" height="16" fill="#f778ba"/>
+<rect x="516" y="316" width="26" height="16" fill="#a5d6ff"/>
+<rect x="542" y="316" width="26" height="16" fill="#c9d1d9"/>
+</g>
+<text x="22" y="429" class="l" style="animation-delay:3s"><tspan class="p">igor@arch</tspan> <tspan class="c">~</tspan> $ cat bio.txt</text>
+<text x="22" y="449" class="l d" style="animation-delay:3.5s">// TODO: write a better bio</text>
+<text x="22" y="473" class="l" style="animation-delay:4s"><tspan class="p">igor@arch</tspan> <tspan class="c">~</tspan> $ <tspan class="cur">█</tspan></text>
+</svg>

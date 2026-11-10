@@ -1,71 +1,46 @@
-<picture>
-  <h1>Igor D. 
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f386/512.gif" alt="🎆" width="32" height="32">
-  </h1>
-</picture>  
-<blockquote>
-<strong>"Writing TODO comments knowing I'll never read them again"</strong>
-<br><br>
-<code>// TODO: write a better bio</code>
-</blockquote>
-
-## About me? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
-- 🌐 You can access all my open-source projects here on **GitHub**.
-- 🚀 I use **Arch btw**. That's my entire personality. [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="20em" align="center" alt="Arch Linux Logo"/>](https://archlinux.org/)
-- ⚙️ 23-year-old student passionate about **Back-end development** and **System Administration**.
-
----
-
-## 💻 Tech Stack 
-
-### 🐍 Python & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,sqlite" height=40 />
+<p align="center">
+  <img src="assets/terminal.svg" width="840" alt="Terminal running neofetch: igor@arch. OS: Arch Linux (btw). Host: Novi Sad, Serbia. Role: back-end developer. Backend: Python, Django, Flask, FastAPI. Learning: Rust, C, C++. Focus: AI / LLM tooling. Bio: TODO, write a better bio." />
 </p>
 
-### 🌐 JavaScript & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,vite" height=40 />
-</p>
-
-### 🦀 Low Level (The "I'm Learning" Zone)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust" height=40 />
-</p>
-
-### 🛠️ Systems & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,bash" height=40 />
-</p>
-
----
-
-## 📊 My GitHub Stats
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-           <img src="https://github-readme-streak-stats.herokuapp.com?user=IgorD-lab&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-      </a>
-    </td>
-    <td>
-      <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png" width="180">
-    </td>
-  </tr>
-</table>
+## 🔭 `ls ~/projects`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IgorD-lab&label=PROFILE+VIEWS&color=8a2be2&style=flat-square&base=1046" alt="Profile Views" /> —> mostly me checking if I broke my own README
-</p>  
+  <a href="https://github.com/IgorD-lab/claude-code-analytics"><img src="assets/card-claude-code-analytics.svg" width="49%" alt="claude-code-analytics: turns raw Claude Code telemetry from a whole engineering org into a live dashboard and a typed REST API. Python, Streamlit, SQLite, Docker." /></a>
+  <a href="https://github.com/IgorD-lab/Pharmacy"><img src="assets/card-pharmacy.svg" width="49%" alt="Pharmacy: checks prescriptions for drug interactions, duplicate doses, insurance and stock before a pharmacist approves. Python, Flask, JavaScript." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/IgorD-lab/H1R3"><img src="assets/card-h1r3.svg" width="49%" alt="H1R3: scrapes job boards, then a local LLM scores every posting against your CV and suggests missing keywords. Python, Ollama, Llama 3." /></a>
+  <a href="https://github.com/IgorD-lab/DevFolio"><img src="assets/card-devfolio.svg" width="49%" alt="DevFolio: community platform where developers publish projects, collect votes and comments, and find each other. Django, DRF, PostgreSQL." /></a>
+</p>
 
----
+## 💻 `pacman -Q`
 
-#### 📫 How to reach me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/igor-dobric/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>&nbsp;
-  <a href="mailto:igordobricc@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="40"/></a>&nbsp;
-  <a href="https://discord.com/users/.iii_iii"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="40"/></a>&nbsp;
-  <a href="https://steamcommunity.com/id/tradeban76561198448174051/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40"/></a>&nbsp;
-  <a href="https://www.instagram.com/igord_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,sqlite,docker,js,ts,react,tailwind,vite,cs,linux,arch,bash,git&perline=17" width="100%" alt="Python, Django, Flask, FastAPI, PostgreSQL, SQLite, Docker, JavaScript, TypeScript, React, Tailwind, Vite, C#, Linux, Arch, Bash, Git" />
+</p>
+<p align="center">
+  <sub>🦀 currently compiling:</sub>&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp" height="24" align="center" alt="Rust, C, C++" />
+</p>
+
+## 📊 `uptime`
+
+<p align="center">
+  <a href="https://github.com/IgorD-lab?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=IgorD-lab&theme=radical&hide_border=true&background=0d1117">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=IgorD-lab&theme=default&hide_border=true">
+      <img src="https://streak-stats.demolab.com?user=IgorD-lab&theme=radical&hide_border=true&background=0d1117" height="170" align="center" alt="GitHub contribution stats" />
+    </picture>
+  </a>
+  &nbsp;
+  <img src="https://github.com/IgorD-lab/IgorD-lab/blob/main/assets/onTheJob.png?raw=true" height="170" align="center" alt="On the job" />
+</p>
+
+## 📫 `ping igor`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-dobric/"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:igordobricc@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /></a>&nbsp;
+  <a href="https://discord.com/users/.iii_iii"><img src="https://skillicons.dev/icons?i=discord" width="40" alt="Discord" /></a>
 </p>
