@@ -5,22 +5,24 @@
 ## 🔭 `ls ~/projects`
 
 <p align="center">
-  <a href="https://github.com/IgorD-lab/claude-code-analytics"><img src="assets/card-claude-code-analytics.svg" width="49%" alt="claude-code-analytics: turns raw Claude Code telemetry from a whole engineering org into a live dashboard and a typed REST API. Python, Streamlit, SQLite, Docker." /></a>
-  <a href="https://github.com/IgorD-lab/Pharmacy"><img src="assets/card-pharmacy.svg" width="49%" alt="Pharmacy: checks prescriptions for drug interactions, duplicate doses, insurance and stock before a pharmacist approves. Python, Flask, JavaScript." /></a>
+  <a href="https://github.com/IgorD-lab/DevFolio"><img src="assets/card-devfolio.svg" width="49%" alt="DevFolio: community platform where developers publish projects, collect votes and comments, and find each other. Django, DRF, PostgreSQL." /></a>
+  <a href="https://github.com/IgorD-lab/Pharmacy"><img src="assets/card-pharmacy.svg" width="49%" alt="Pharmacy: prototype that checks prescriptions for drug interactions, stock and safety warnings before a pharmacist approves. Python, Flask, JavaScript." /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/IgorD-lab/H1R3"><img src="assets/card-h1r3.svg" width="49%" alt="H1R3: scrapes job boards, then a local LLM scores every posting against your CV and suggests missing keywords. Python, Ollama, Llama 3." /></a>
-  <a href="https://github.com/IgorD-lab/DevFolio"><img src="assets/card-devfolio.svg" width="49%" alt="DevFolio: community platform where developers publish projects, collect votes and comments, and find each other. Django, DRF, PostgreSQL." /></a>
+  <a href="https://github.com/IgorD-lab/Focus"><img src="assets/card-focus.svg" width="49%" alt="Focus: study companion with a focus timer, to-dos, notes and flashcard decks with a quiz mode. My first full app. Python, Flask, JavaScript." /></a>
+  <a href="https://github.com/Fusion3-Tech/sol-xcm"><img src="assets/card-sol-xcm.svg" width="49%" alt="sol-xcm, contract work for Fusion3 as a contributor: typed Solidity interfaces for XCM on Polkadot Hub. I wrote the SCALE encoding tests and CI. Solidity, Hardhat." /></a>
 </p>
 
 ## 💻 `pacman -Q`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,sqlite,docker,js,ts,react,tailwind,vite,cs,linux,arch,bash,git&perline=17" width="100%" alt="Python, Django, Flask, FastAPI, PostgreSQL, SQLite, Docker, JavaScript, TypeScript, React, Tailwind, Vite, C#, Linux, Arch, Bash, Git" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,sqlite,docker,solidity,js,ts,react,nextjs,tailwind,linux,arch,bash,git&perline=17" width="100%" alt="Python, Django, Flask, FastAPI, PostgreSQL, SQLite, Docker, Solidity, JavaScript, TypeScript, React, Next.js, Tailwind, Linux, Arch, Bash, Git" />
 </p>
+
+### 🦀 Currently compiling
+
 <p align="center">
-  <sub>🦀 currently compiling:</sub>&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp" height="24" align="center" alt="Rust, C, C++" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp" height="48" alt="Rust, C, C++" />
 </p>
 
 ## 📊 `uptime`

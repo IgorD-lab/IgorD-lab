@@ -41,14 +41,14 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <text x="360" y="107" class="l" style="animation-delay:1.02s" xml:space="preserve"><tspan class="d">---------</tspan></text>
 <text x="360" y="124" class="l" style="animation-delay:1.14s" xml:space="preserve"><tspan class="k">OS</tspan>: Arch Linux (btw)</text>
 <text x="360" y="141" class="l" style="animation-delay:1.26s" xml:space="preserve"><tspan class="k">Host</tspan>: Novi Sad, Serbia</text>
-<text x="360" y="158" class="l" style="animation-delay:1.38s" xml:space="preserve"><tspan class="k">Role</tspan>: Back-end developer</text>
+<text x="360" y="158" class="l" style="animation-delay:1.38s" xml:space="preserve"><tspan class="k">Role</tspan>: Back-end · blockchain · vibe coder</text>
 <text x="360" y="175" class="l" style="animation-delay:1.50s" xml:space="preserve"><tspan class="k">Uptime</tspan>: on GitHub since 2020</text>
 <text x="360" y="192" class="l" style="animation-delay:1.62s" xml:space="preserve"><tspan class="k">Commits</tspan>: 4,000+ contributions</text>
 <text x="360" y="209" class="l" style="animation-delay:1.74s" xml:space="preserve"><tspan class="k">Backend</tspan>: Python · Django · Flask · FastAPI</text>
-<text x="360" y="226" class="l" style="animation-delay:1.86s" xml:space="preserve"><tspan class="k">Data</tspan>: PostgreSQL · SQLite · Docker</text>
-<text x="360" y="243" class="l" style="animation-delay:1.98s" xml:space="preserve"><tspan class="k">Frontend</tspan>: TypeScript · React · Tailwind</text>
+<text x="360" y="226" class="l" style="animation-delay:1.86s" xml:space="preserve"><tspan class="k">Chain</tspan>: Solidity · Polkadot · Hardhat</text>
+<text x="360" y="243" class="l" style="animation-delay:1.98s" xml:space="preserve"><tspan class="k">Frontend</tspan>: TypeScript · React · Next.js</text>
 <text x="360" y="260" class="l" style="animation-delay:2.10s" xml:space="preserve"><tspan class="k">Learning</tspan>: Rust · C · C++</text>
-<text x="360" y="277" class="l" style="animation-delay:2.22s" xml:space="preserve"><tspan class="k">Focus</tspan>: AI / LLM tooling</text>
+<text x="360" y="277" class="l" style="animation-delay:2.22s" xml:space="preserve"><tspan class="k">Workflow</tspan>: I direct, the agents type</text>
 <text x="360" y="294" class="l" style="animation-delay:2.34s" xml:space="preserve"><tspan class="k">Personality</tspan>: see OS</text>
 <g class="l" style="animation-delay:2.58s">
 <rect x="360" y="316" width="26" height="16" fill="#484f58"/>
